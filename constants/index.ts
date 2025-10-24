@@ -263,7 +263,7 @@ export const PROJECTS = [
     description:
       'Embark on a journey through my professional evolution with the "Modern Next.js Portfolio" - a dynamic showcase of my skills, experiences, and passion for web development. Crafted with precision and powered by Next.js, this portfolio is more than just a static display; it\'s an immersive experience that reflects the cutting edge of modern web technologies.',
     image: "/projects/project-1.png",
-    link: "https://example.com",
+    link: "https://github.com/samarth-sachin/LearnForge",
   },
   {
     title: "Interactive Cards Portfolio",
@@ -318,7 +318,7 @@ export const FOOTER_DATA = [
       {
         name: "Linkedin",
         icon: RxLinkedinLogo,
-        link: "https://linkedin.com",
+        link: "https://www.linkedin.com/in/samarth-patil-905125332/",
       },
     ],
   },
@@ -360,5 +360,5 @@ export const NAV_LINKS = [
 ] as const;
 
 export const LINKS = {
-  sourceCode: "https://github.com/sanidhyy/space-portfolio",
+  sourceCode: "https://github.com/samarth-sachin/May-Be",
 };
